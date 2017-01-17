@@ -1,0 +1,4 @@
+.idea
+db.*
+*.py[co]
+__pycache__
